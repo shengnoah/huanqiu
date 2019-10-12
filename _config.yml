@@ -3,6 +3,7 @@ description:      北京环球影城爱好者网
 future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
+url: https://shengnoah.github.io/huanqiu/
 gems:
   - jekyll-sitemap
   - jekyll-paginate
