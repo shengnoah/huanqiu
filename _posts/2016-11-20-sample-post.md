@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: posts
-title: Sample Post
+title: 北京环球影城概念图
 subtitle: This is a test post.
-featured-image: /images/2016-11-19/abstract-1.jpg
+featured-image: /images/universal_conceptual_image.jpg
 tags: [sample post]
 date-string: NOVEMBER 20, 2016
 ---
