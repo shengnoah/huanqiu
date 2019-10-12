@@ -4,7 +4,7 @@ categories: posts
 title: 北京环球影城概念图
 subtitle: 北京环球影城概念图.
 featured-image: /images/universal_conceptual_image.jpg
-tags: [sample post]
+tags: [概念图]
 date-string: NOVEMBER 20, 2016
 ---
 
