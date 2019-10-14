@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, interdum fermentum arcu, ipsum venenatis curabitur d
         <img src="/images/2016-11-19/abstract-3.jpg">
         <img src="/images/2016-11-19/abstract-4.jpg">
         <img src="/images/2016-11-19/abstract-5.jpg">
-        <img src="/images/2016-11-19/abstract-6.jpg">
+        <img src="https://wx2.sinaimg.cn/mw690/006FPnJnly1g7wg042asmj34mo3347wn.jpg">
     </div>
 </center>
 
