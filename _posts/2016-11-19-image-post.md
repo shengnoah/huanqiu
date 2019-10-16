@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: posts
-title: Image Post
-tags: [sample post]
+title: 环球组图 
+tags: [组图]
 date-string: NOVEMBER 19, 2016
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
