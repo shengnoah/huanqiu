@@ -12,10 +12,10 @@ Lorem ipsum dolor sit amet, interdum fermentum arcu, ipsum venenatis curabitur d
 
 <center>
     <div class="photoset-grid-custom" data-layout="213">
-        <img src="/images/2019-10-22/ad-1.jpg">
-        <img src="/images/2019-10-22/ad-2.jpg">
-        <img src="/images/2019-10-22/ad-3.jpg">
-        <img src="/images/2019-10-22/ad-4.jpg">
+        <img src="/images/2019-10-22/ad_1.jpg">
+        <img src="/images/2019-10-22/ad_2.jpg">
+        <img src="/images/2019-10-22/ad_3.jpg">
+        <img src="/images/2019-10-22/ad_4.jpg">
     </div>
 </center>
 
